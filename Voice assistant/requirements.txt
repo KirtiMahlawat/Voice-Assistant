@@ -1,0 +1,17 @@
+bs4
+clint
+ecapture
+feedparser
+pyjokes
+pyautogui
+pyttsx3
+requests
+speechrecognition
+tk
+twilio
+wikipedia
+winshell
+wolframalpha
+pypiwin32
+pipwin
+pyaudio
